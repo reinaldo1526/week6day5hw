@@ -1,0 +1,22 @@
+.container {
+    position: absolute;
+    left: 24%;
+    top: 35%;
+    width: 30%;
+    left: 35%;
+}
+
+.searchb {
+    position: absolute;
+    padding: 35px 10px;
+    margin: 8px 0;
+    left: 40%;
+    top: 10%;
+    color: blue;
+}
+
+.city1 {
+    position: absolute;
+    left: 45%;
+    top: 25%;
+}
